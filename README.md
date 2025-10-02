@@ -77,6 +77,10 @@
       <strong>With Love ❤️</strong>
     </p>
   </div>
+  <audio autoplay loop hidden>
+  <source src="music.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
   <div class="footer">Made with infinite love just for you 💖</div>
 
   <!-- floating hearts -->
